@@ -18,4 +18,6 @@ classifiers = [
 ]
 
 [project.urls]
-# TODO Add after hosting on GitHub
+Repository = "https://github.com/RedLion8399/banking_machine"
+Issues = "https://github.com/RedLion8399/banking_machine/issues"
+Documentation = "https://github.com/RedLion8399/banking_machine/issues"
