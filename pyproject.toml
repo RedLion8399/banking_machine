@@ -2,7 +2,7 @@
 name = "banking_machine"
 version = "0.1.0"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 description = "Small libary to simulate a banking mashine with a gui"
 authors = [{ name = "Paul Jonas Dohle", email = "paul.jonas@dohle-net.de" }]
 license = { file = "LICENSE" }
@@ -11,11 +11,13 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Intended Audience :: Education",
     "Intended Audience :: Developers",
 
 ]
 
 [project.urls]
-# TODO Add after hosting on GitHub
+Repository = "https://github.com/RedLion8399/banking_machine"
+Issues = "https://github.com/RedLion8399/banking_machine/issues"
+Documentation = "https://github.com/RedLion8399/banking_machine/issues"
