@@ -14,8 +14,9 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
     "Intended Audience :: Education",
     "Intended Audience :: Developers",
-
 ]
+
+dependencies = ["customtkinter== 5.2.2", "darkdetect==0.8.0", "packaging==24.2"]
 
 [project.urls]
 Repository = "https://github.com/RedLion8399/banking_machine"
